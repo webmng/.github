@@ -3,7 +3,7 @@
 Hosting control panel for ISPs and hosting providers.
 Per-IP licensing — you pay for servers, not for accounts.
 
-**[Live demo](https://webmng.eu/logindemo)** · **[Documentation](https://webmng.eu/help)** · **[Pricing](https://tsc.isptv.sk/webmng/))**
+**[Live demo](https://webmng.eu/logindemo)** · **[Documentation](https://webmng.eu/help)** · **[Pricing](https://tsc.isptv.sk/webmng/)**
 
 ---
 
