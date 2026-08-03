@@ -24,5 +24,4 @@ Auditable, MIT-licensed, no black boxes.
 ### Contact
 
 - Docs: https://webmng.eu/help
-- Security: security@webmng.eu
 - General: github@webmng.eu
